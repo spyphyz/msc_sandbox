@@ -1,1 +1,3 @@
-A collection of Python scripts for astronomy/astrophysics
+A collection of Python scripts for astronomy/astrophysics.
+
+There is a focus on my research topics of: eclipsing binaries and exoplanets, ...
